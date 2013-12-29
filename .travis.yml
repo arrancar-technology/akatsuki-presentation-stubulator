@@ -2,7 +2,7 @@ script: make test-app-ci
 deploy:
   provider: heroku
   api_key:
-    secure: g0l9+F/W8oxuwCpr2kVBVR3MP30UYAgTpmgfR+HpTY9mV5YGHjxcA5HEAtmCFnwjUkKyDBw4SxdevLIfp7MybxgIh+1Y7BMGDMWPrcVD3JKB2B/5cCaZXixIBAGuQaLAunIgX281nrlwcnvOvAdihgL7+ljrI+Lb4HmnPyLZ4jc=
+    secure: bmZEHXhlKk4gb0K6hjC2YKw2s1reMF4m5QZuK4nozlfLBXEH6uwqpgenjmX/ElFn7P+VIQKX8OGOhltiHMFp2iM3f9kDZABjIgXjxVbr+wKnRtR3ogHZLWHCWvVhPbpYYfEfeJYlvQuYnds+PoHI0gJWzz0G/zFndw1I3qaWDr8=
   app: akatsuki-presentation-stub01
   on:
     repo: arrancar-technology/akatsuki-presentation-stubulator
